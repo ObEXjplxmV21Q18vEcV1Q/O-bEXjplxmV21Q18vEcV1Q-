@@ -99,7 +99,7 @@
     "bouncerplusrank": "@%%NAME%% moraš biti menadžer da omogućiš Bouncer+.",
     "chatcleared": "/me %%NAME%% je očistio/la čet!",
     "deletechat": "/me %%NAME%% je očistio/la poruke od %%USERNAME%%",
-    "commandslink": "@%%NAME%% sve komande možeš pronaći ovde - https://goo.gl/cRc70U :diamond_shape_with_a_dot_inside:",
+    "commandslink": "/me Sve komande možete pronaći ovde - %%LINK%% :diamond_shape_with_a_dot_inside:",
     "eatcookie": "/me Jedem kolačić! :yum: https://i.imgur.com/Ucq6yQT.gif",
     "sharelove": "/me Širite ljubav! :yum: :heart:",
     "shareheart": ":heart:",
