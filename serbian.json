@@ -30,6 +30,7 @@
 
     "usernotfound": "/me Korisnik nije pronađen.",
     "notdisconnected": "@%%NAME%% ne vidim tvoje isključenje!",
+    "notinwl": "@%%NAME%% nisi bio/la u listi čekanja!",
     "noposition": "/me Poslednja pozicija nije zapamćena.",
     "toolongago": "@%%NAME%% ti si se poslednji put isključio/la pre - %%TIME%% ",
     "valid": "@%%NAME%% ti si se isključio/la pre - %%TIME%% vraćam te na poziciju - %%POSITION%%!",
