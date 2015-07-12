@@ -11,6 +11,7 @@
     "welcome": "Dobrodošao/la @%%NAME%% :heart_eyes:! Pre svega pročitaj pravila - https://goo.gl/VCKxMI :warning:",
     "welcomeback": "Dobrodošao/la nazad @%%NAME%% :zap:!",
     "songknown": "@%%NAME%% tvoja pesma je u istoriji! :fast_forward:",
+    "notavailable": "@%%NAME%% tvoja pesma nije dostupna! :fast_forward:",
     "timelimit": "@%%NAME%% tvoja pesma je duža od %%MAXLENGTH%% minuta! :fast_forward:",
     "permissionownsong": "@%%NAME%% imaš dozvolu da puštaš svoju pesmu!",
     "isblacklisted": "/me Ova pesma je na listi zabranjenih pesama! :fast_forward:",
