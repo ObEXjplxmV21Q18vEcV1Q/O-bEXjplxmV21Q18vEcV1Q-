@@ -170,6 +170,7 @@
     "mutedmaxtime": "@%%NAME%% možeš da ućutkaš korisnika na maksimalno %%TIME%% minuta.",
     "mutedtime": "/me %%NAME%% je ućutkao/la %%USERNAME%% na %%TIME%% minuta.",
     "unmuted": "/me %%USERNAME%% nije više ućutkan/a!",
+    "unbaned": "/me %%USERNAME%% nije više banovan/a!",
     "muterank": "@%%NAME%% ne možeš ućutkati osobe sa istim ili većim rankom od sebe.",
     "oplist": "/me OP lista - %%LINK%%",
     "pong": "/me |Pong!| https://i.imgur.com/k3trmCN.gif",
