@@ -18,7 +18,7 @@
 
 
     "isopen": "@djs Rulet je pokrenut! (kucajte !join da učestvujete) :four_leaf_clover:",
-    "winnerpicked": "@%%NAME%% :four_leaf_clover:!",
+    "winnerpicked": "/me %%NAME%% :four_leaf_clover:!",
     
     "meow": "/me |Meow!| %%RESPONSE%%",
     "wasted": "/me |Wasted!| %%RESPONSE%%",
