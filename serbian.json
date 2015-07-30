@@ -17,10 +17,11 @@
     "isblacklisted": "/me Ova pesma je na listi zabranjenih pesama!",
 
 
-    "isopen": "@djs Rulet je pokrenut! Kucajte !join ako želite da učestvujete! :four_leaf_clover:",
-    "winnerpicked": "/me %%NAME%% :four_leaf_clover:!",
+    "isopen": "@djs Rulet je pokrenut! (kucajte !join da učestvujete) :four_leaf_clover:",
+    "winnerpicked": "@%%NAME%% :four_leaf_clover:!",
     
     "meow": "/me |Meow!| %%RESPONSE%%",
+    "wasted": "/me |Wasted!| %%RESPONSE%%",
 
     "notghosting": "@%%NAME1%%, %%NAME2%% nije ubagovao/la.",
     "ghosting": "@%%NAME1%%, %%NAME2%% je ubagovao/la ili nije tu.",
