@@ -7,7 +7,7 @@
 
 
     "welcome": "Dobrodošao/la @%%NAME%%! Pre svega pročitaj pravila - https://goo.gl/VCKxMI",
-    "welcomeback": "Dobrodošao/la nazad @%%NAME%%!",
+    "welcomeback": ":heart: @%%NAME%%!",
     "songknown": "@%%NAME%% tvoja pesma je u istoriji!",
     "notavailable": "@%%NAME%% tvoja pesma nije dostupna!",
     "timelimit": "@%%NAME%% tvoja pesma je duža od %%MAXLENGTH%% minuta!",
