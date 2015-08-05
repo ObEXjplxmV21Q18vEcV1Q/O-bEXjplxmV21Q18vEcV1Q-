@@ -58,7 +58,7 @@
     "invaliduserspecified": "@%%NAME%% ime korisnika nije ispravno!",
     "nolistspecified": "@%%NAME%% lista nije navedena!",
     "invalidlistspecified": "@%%NAME%% ime liste nije ispravno!",
-    "novaliduserspecified": "@%%NAME%% nije izabran validan korisnik!",
+    "novaliduserspecified": "@%%NAME%% nije izabran važeći korisnik!",
     "nolimitspecified": "@%%NAME%% limit nije naveden!",
     "invalidlimitspecified": "@%%NAME%% limit nije ispravan!",
     "invalidpositionspecified": "@%%NAME%% pozicija nije ispravna!",
