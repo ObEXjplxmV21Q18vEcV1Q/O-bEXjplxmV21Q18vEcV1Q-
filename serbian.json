@@ -53,7 +53,7 @@
     "invalidgifrandom": "@%%NAME%% greška,pokušaj ponovo.",
 
 
-    "invalidtime": "@%%NAME%% vreme nije ispravno napisano!",
+    "invalidtime": "@%%NAME%% vreme nije ispravno!",
     "nouserspecified": "@%%NAME%% korisnik nije naveden!",
     "invaliduserspecified": "@%%NAME%% ime korisnika nije ispravno!",
     "nolistspecified": "@%%NAME%% lista nije navedena!",
