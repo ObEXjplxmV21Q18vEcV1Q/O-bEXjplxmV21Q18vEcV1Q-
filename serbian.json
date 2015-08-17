@@ -171,6 +171,7 @@
     "unmuted": "@%%NAME1%%, %%NAME2%% nije više ućutkan/a!",
     "unbaned": "@%%NAME1%%, %%NAME2%% nije više banovan/a!",
     "muterank": "@%%NAME%% ne možeš ućutkati osobe sa istim ili većim rankom od sebe.",
+    "banrank": "@%%NAME%% ne možeš izbaciti osobe sa istim ili većim rankom od sebe.",
     "oplist": "/me OP lista - %%LINK%%",
     "pong": "@%%NAME%% Pong! :eyes:",
     "reload": "/me Odmah se vraćam!",
