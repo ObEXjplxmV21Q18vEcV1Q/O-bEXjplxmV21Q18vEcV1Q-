@@ -28,10 +28,10 @@
     "adding": "@%%NAME%% dodan/a si na čekanje. Trenuto si na poziciji %%POSITION%% na čekanju!",
 
 
-    "usernotfound": "/me Korisnik nije pronađen.",
+    "usernotfound": "@%%NAME%% korisnik nije pronađen.",
     "notdisconnected": "@%%NAME%% ne vidim tvoje isključenje!",
     "notinwl": "@%%NAME%% nisi bio/la u listi čekanja!",
-    "noposition": "/me Poslednja pozicija nije zapamćena.",
+    "noposition": "/me Poslednja pozicija nije zapamćena!",
     "toolongago": "@%%NAME%% ti si se poslednji put isključio/la pre - %%TIME%% ",
     "valid": "@%%NAME%% ti si se isključio/la pre - %%TIME%% vraćam te na poziciju - %%POSITION%%!",
 
@@ -98,8 +98,8 @@
     "rcs": "/me AutoWoot ~ (RCS) - https://goo.gl/vK1SnK :green_heart: Uputstvo za instalaciju - https://goo.gl/vvZcNS",
     "brandambassador": "/me Brand Ambassador je globalni moderator sajta, za više informacija poseti - https://goo.gl/UkOqR5",
     "bouncerplusrank": "@%%NAME%% moraš biti menadžer da omogućiš Bouncer+.",
-    "chatcleared": "/me %%NAME%% je očistio/la čet!",
-    "deletechat": "/me %%NAME%% je očistio/la poruke od %%USERNAME%%",
+    "chatcleared": "@%%NAME%% čišćenje četa...",
+    "deletechat": "@%%NAME%% čišćenje poruka od %%USERNAME%%!",
     "commandslink": "@%%NAME%% sve moje komande možeš pronaći ovde - %%LINK%%",
     "eatcookie": "/me Jedem kolačić! :yum: https://i.imgur.com/Ucq6yQT.gif",
     "sharelove": "/me Širite ljubav! :heart:",
@@ -162,7 +162,7 @@
     "lockguardtime": "@%%NAME%% lockguard je podešen na %%TIME%% minut/a.",
     "maxlengthtime": "@%%NAME%% maksimalno trajanje pesme podešeno na %%TIME%% minut/a.",
     "motdset": "/me Poruka Dana podešena - %%MSG%%",
-    "motdintervalset": "/me Interval poruke dana podešen na %%INTERVAL%%",
+    "motdintervalset": "@%%NAME%% interval poruke dana podešen na %%INTERVAL%%",
     "addbotwaitlist": "@%%NAME%% nemoj pokušavati da me dodaš na listu,molim te!",
     "move": "/me %%NAME%% je koristio/la pomeranje!",
     "mutednotime": "@%%NAME%%, %%USERNAME%% je ućutkan/a :no_mouth:",
@@ -200,5 +200,5 @@
     "votestats": "/me %%USERNAME%% - :green_heart: %%WOOT%% | :broken_heart: %%MEHS%% ",
     "web": "/me Web Sajt - %%LINK%%",
     "youtube": "/me YouTube - %%LINK%%",
-    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%% :green_heart: | %%GRABS%% :purple_heart: | %%MEHS%% :broken_heart:"
+    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
