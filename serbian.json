@@ -24,7 +24,7 @@
     "notghosting": "@%%NAME1%%, %%NAME2%% nije ubagovao/la.",
     "ghosting": "@%%NAME1%%, %%NAME2%% je ubagovao/la ili nije tu.",
     
-    "alreadyadding": "/me Korisnik je već dodan i pomeren na poziciju %%POSITION%%",
+    "alreadyadding": "@%%NAME%% korisnik je već dodan i pomeren na poziciju %%POSITION%!%",
     "adding": "@%%NAME%% dodan/a si na čekanje. Trenuto si na poziciji %%POSITION%% na čekanju!",
 
 
@@ -40,12 +40,6 @@
     "warning2": "Poslednje upozorenje @%%NAME%%, piši u četu ili češ biti uklonjen/a iz liste čekanja :warning:",
     "afkremove": "@%%NAME%% uklonjen/a si iz liste čekanja!",
 
-
-    "caps": null,
-    "askskip": null,
-    "spam": null,
-    "roomadvertising": null,
-    "adfly": null,
 
     "validgiftags": "/me https:\/\/i.giphy.com\/%%ID%%.gif | %%TAGS%% |",
     "invalidgiftags": "Nevažeći tag/ovi @%%NAME%%!",
@@ -76,7 +70,7 @@
     "cycleguard": "Cycleguard",
     "dance": "@%%NAME%% AutoWoot aktiviran!",
     "awoff": "AutoWoot :negative_squared_cross_mark:",
-    "timeguard": "Skipovanje pesama dužih od X minut/a",
+    "timeguard": "Preskakanje pesama dužih od X minut/a",
     "chatfilter": "Čet filter",
     "historyskip": "Preskakanje pesama u istoriji",
     "lockdown": "Zaleđivanje četa",
@@ -97,9 +91,8 @@
     "inactivefor": "@%%USERNAME%% nije aktivan/a već %%TIME%%",
     "rcs": "/me AutoWoot ~ (RCS) - https://goo.gl/vK1SnK :green_heart: Uputstvo za instalaciju - https://goo.gl/vvZcNS",
     "brandambassador": "/me Brand Ambassador je globalni moderator sajta, za više informacija poseti - https://goo.gl/UkOqR5",
-    "bouncerplusrank": "@%%NAME%% moraš biti menadžer da omogućiš Bouncer+.",
-    "chatcleared": "@%%NAME%% čišćenje četa...",
-    "deletechat": "@%%NAME%% čišćenje poruka od %%USERNAME%%!",
+    "chatcleared": "@%%NAME%% brisanje poruka...",
+    "deletechat": "@%%NAME%% brisanje poruka od %%USERNAME%%!",
     "commandslink": "@%%NAME%% sve moje komande možeš pronaći ovde - %%LINK%%",
     "eatcookie": "/me Jedem kolačić! :yum: https://i.imgur.com/Ucq6yQT.gif",
     "sharelove": "/me Širite ljubav! :heart:",
@@ -111,7 +104,6 @@
     "selfheart": "@%%NAME%% :O",
     "cookie": "@%%NAMETO%% https://i.imgur.com/Pux5qAW.gif | od: %%NAMEFROM%%! |",
     "love": "@%%NAMETO%% https://i.imgur.com/Op6LN5v.gif | od: %%NAMEFROM%%! |",
-    "heart": "@%%NAMETO%% :heart:",
     "cycleguardtime": "@%%NAME%% cycleguard je podešen na %%TIME%% minut/a.",
     "dclookuprank": "@%%NAME%% samo pomagači ili neko veći mogu uraditi DC za nekog korisnika.",
     "emojilist": "/me Lista emotikona - %%LINK%%",
@@ -164,7 +156,7 @@
     "motdset": "/me Poruka Dana podešena - %%MSG%%",
     "motdintervalset": "@%%NAME%% interval poruke dana podešen na %%INTERVAL%%",
     "addbotwaitlist": "@%%NAME%% nemoj pokušavati da me dodaš na listu,molim te!",
-    "move": "/me %%NAME%% je koristio/la pomeranje!",
+    "move": "@%%NAME%% pomeranje...",
     "mutednotime": "@%%NAME%%, %%USERNAME%% je ućutkan/a :no_mouth:",
     "mutedmaxtime": "@%%NAME%% možeš da ućutkaš korisnika na maksimalno %%TIME%% minuta.",
     "mutedtime": "@%%NAME%%, %%USERNAME%% je ućutkan/a na %%TIME%% minuta.",
