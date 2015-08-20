@@ -157,7 +157,7 @@
     "versionbot": "/me Trenutna verzija - %%VERSION%%",
     "rouletteleave": "Napustio/la si rulet @%%NAME%%!",
     "songlink": "@%%NAME%% link trenutne pesme - %%LINK%% :dvd:",
-    "usedlockskip": "/me %%NAME%% je koristio/la preskakanje pesme!",
+    "usedlockskip": "@%%NAME%% preskakanje pesme...",
     "lockskippos": "@%%NAME%% lockskip će pomeriti DJ-a na poziciju %%POSITION%%",
     "lockguardtime": "@%%NAME%% lockguard je podešen na %%TIME%% minut/a.",
     "maxlengthtime": "@%%NAME%% maksimalno trajanje pesme podešeno na %%TIME%% minut/a.",
