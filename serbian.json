@@ -6,8 +6,8 @@
     "online": "/me Evo me nazad mačkice!",
 
 
-    "welcome": "Dobro došao/la @%%NAME%%! Pre svega pročitaj pravila - https://goo.gl/VCKxMI",
-    "welcomeback": ":heart: @%%NAME%%!",
+    "welcome": "Dobro došao/la @%%NAME%%! :heart:",
+    "welcomeback": "Dobro došao/la nazad @%%NAME%%! :heart:",
     "songknown": "@%%NAME%% tvoja pesma je u istoriji!",
     "notavailable": "@%%NAME%% tvoja pesma nije dostupna!",
     "timelimit": "@%%NAME%% tvoja pesma je duža od %%MAXLENGTH%% minuta!",
