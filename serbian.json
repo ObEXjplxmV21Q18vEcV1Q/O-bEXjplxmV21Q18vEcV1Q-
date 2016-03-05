@@ -6,8 +6,8 @@
     "online": "/me Evo me nazad mačkice! :gem:",
 
 
-    "welcome": "@%%NAME%% tik tok... :( https://goo.gl/21bAl4 | ALTERNATIVA:https://goo.gl/yKJgmg!!!",
-    "welcomeback": "@%%NAME%% tik tok... :( https://goo.gl/21bAl4 | ALTERNATIVA:https://goo.gl/yKJgmg!!!",
+    "welcome": "@%%NAME%% :wave:",
+    "welcomeback": "@%%NAME%% :wave:",
     "songknown": "@%%NAME%% tvoja pesma je u istoriji!",
     "notavailable": "@%%NAME%% tvoja pesma nije dostupna!",
     "timelimit": "@%%NAME%% tvoja pesma je duža od %%MAXLENGTH%% minuta!",
