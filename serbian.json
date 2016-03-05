@@ -15,7 +15,7 @@
     "isblacklisted": "/me Ova pesma je na listi zabranjenih pesama!",
 
 
-    "isopen": "@djs Rulet je pokrenut! (kucajte !join da učestvujete!)",
+    "isopen": "@djs rulet je pokrenut! (kucajte !join da učestvujete!)",
     "winnerpicked": "/me %%NAME%% (pozicija: %%POSITION%%!) :four_leaf_clover:!",
     
     "meow": "/me Meow! %%RESPONSE%%",
@@ -89,7 +89,8 @@
     "maximumafktimeset": "@%%NAME%% maksimalno AFK vreme podešeno na %%TIME%% minut/a.",
     "afkstatusreset": "@%%NAME%% restartovanje AFK statusa od %%USERNAME%%",
     "inactivefor": "@%%USERNAME%% nije aktivan/a već %%TIME%%",
-    "rcs": "/me AutoWoot ~ (RCS) - https://goo.gl/vK1SnK :green_heart: Uputstvo za instalaciju - https://goo.gl/vvZcNS",
+    "rcs": "/me RCS AutoWoot(Skripta) - https://goo.gl/ithTau :green_heart: Uputstvo za instalaciju - https://goo.gl/Zuc8mR",
+    "rce": "/me RCS AutoWoot(Chrome dodatak) - https://goo.gl/6IiMuW :green_heart:",
     "brandambassador": "/me Brand Ambassador je globalni moderator sajta, za više informacija poseti - https://goo.gl/UkOqR5",
     "chatcleared": "@%%NAME%% brisanje poruka...",
     "deletechat": "@%%NAME%% brisanje poruka od %%USERNAME%%!",
