@@ -140,7 +140,7 @@
     "youaredj": "@%%NAME%% trenutno si DJ!",
     "eta": "@%%NAME%% tvoja pozicija u listi čekanja: %%POSITION%%, puštaš pesmu za otprilike: %%TIME%% (ovo nije uvek tačno!)",
     "facebook": null,
-    "starterhelp": "Ako ti treba pomoć @%%NAME%%, poseti ovu stranicu! - https://goo.gl/nD4BhQ",
+    "starterhelp": "Ako ti treba pomoć @%%NAME%%, poseti ovu stranicu! - https://goo.gl/n9bD1B",
     "roulettejoin": "Dobro došao/la u rulet @%%NAME%%! (kucaj !leave ako želiš da napustiš rulet!)",
     "jointime": "@%%USERNAME%% je u sobi %%TIME%%",
     "kickrank": "@%%NAME%% ne možeš izbaciti korisnike sa istim ili većim rankom od sebe!",
