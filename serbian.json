@@ -107,7 +107,7 @@
     "love": "@%%NAMETO%% https://i.imgur.com/Op6LN5v.gif od: %%NAMEFROM%%!",
     "cycleguardtime": "@%%NAME%% cycleguard je podešen na %%TIME%% minut/a.",
     "dclookuprank": "@%%NAME%% samo pomagači ili neko veći mogu uraditi DC za nekog korisnika.",
-    "emojilist": "/me Lista emotikona - %%LINK%%",
+    "emojilist": "/me Lista smajlija - %%LINK%%",
     "bb": "/me basicBot - https://goo.gl/KQNfFd",
     "plugfb": "/me plug.dj facebook - https://goo.gl/ntyTEF",
     "plugtw": "/me plug.dj twitter - https://goo.gl/Hcyfs8",
