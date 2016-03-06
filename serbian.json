@@ -62,7 +62,7 @@
     "afkremoval": "AFK uklanjanje",
     "afksremoved": "AFK korisnici uklonjeni",
     "afklimit": "AFK limit",
-    "autodisable": "AutoRulet",
+    "autoroulette": "AutoRulet",
     "autoskip": "preskakanje ubagovalih pesama",
     "newblacklisted": "@%%NAME%% ova pesma pripada %%BLACKLIST%% zabranjenim pesmama! ( %%AUTHOR%% - %%TITLE%% - %%MID%% )",
     "blinfo": "@%%NAME%% Blacklist info: autor: %%AUTHOR%%, naslov: %%TITLE%%, ID: %%SONGID%%",
