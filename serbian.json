@@ -198,6 +198,6 @@
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%",
     "thorNotClose": "@%%NAME%% više sreće drugi put!",
     "thorcd": "@%%NAME%% pokušaj ponovo za %%TIME%% minuta.",
-    "thorWorthy": "@%%NAME%% :cherries: :cherries: :cherries:",
-    "thorNotWorthy": "@%%NAME%% :hammer:"
+    "thorWorthy": "@%%NAME%% :cherries: │ :cherries: │ :cherries:",
+    "thorNotWorthy": "@%%NAME%% :bomb: │ :bomb: │ :bomb:"
 }
