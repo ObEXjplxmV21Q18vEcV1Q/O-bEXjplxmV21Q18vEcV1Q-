@@ -192,7 +192,7 @@
     "notmuted": "@%%NAME%% korisnik nije ućutkan.",
     "unmuterank": "@%%NAME%% ti ne možeš da unmutuješ osobu sa istim ili većim rankom od tebe.",
     "commandscd": "/me @%%NAME%% zamrzavanje komandi za korisnike podešeno na %%TIME%% sekundi.",
-    "votestats": "/me %%USERNAME%%: :green_heart: %%WOOT%% | :broken_heart: %%MEHS%% ",
+    "votestats": "/me %%USERNAME%% :green_heart: %%WOOT%% | :broken_heart: %%MEHS%% ",
     "web": "/me Web Sajt - %%LINK%%",
     "youtube": "/me YouTube - %%LINK%%",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%",
