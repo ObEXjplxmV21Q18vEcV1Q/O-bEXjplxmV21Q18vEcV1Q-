@@ -147,7 +147,7 @@
     "jointime": "@%%USERNAME%% je u sobi %%TIME%%",
     "kickrank": "@%%NAME%% ne možeš izbaciti korisnike sa istim ili većim rankom od sebe!",
     "banrank": "@%%NAME%% ne možeš da izbaciš korisnike sa većim ili istim rankom od sebe!",
-    "kick": "@%%NAME%%, %%USERNAME%% je izbačen/a na %%TIME%% minut/a!",
+    "kick": "@%%USERNAME%% izbačen/a si na %%TIME%% minut/a!",
     "die": "@%%NAME%% Gašenje...",
     "versionbot": "/me Trenutna verzija - %%VERSION%%",
     "rouletteleave": "Napustio/la si rulet @%%NAME%%!",
