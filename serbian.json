@@ -28,7 +28,7 @@
     "adding": "@%%NAME%% dodan/a si na čekanje. (pozicija na čekanju: %%POSITION%%!)",
 
 
-    "usernotfound": "@%%NAME%% korisnik nije pronađen.",
+    "usernotfound": "@%%NAME%% korisnik nije pronađen!",
     "notdisconnected": "@%%NAME%% ne vidim tvoje isključenje!",
     "notinwl": "@%%NAME%% nisi bio/la u listi čekanja!",
     "noposition": "/me Poslednja pozicija nije zapamćena!",
