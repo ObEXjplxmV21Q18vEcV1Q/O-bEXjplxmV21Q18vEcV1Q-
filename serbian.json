@@ -41,9 +41,9 @@
     "afkremove": "@%%NAME%% uklonjen/a si iz liste čekanja!",
 
 
-    "validgiftags": "/me https:\/\/i.giphy.com\/%%ID%%.gif ( %%TAGS%% )",
+    "validgiftags": "/me https:\/\/i.giphy.com\/%%ID%%.gif ( #%%TAGS%% )",
     "invalidgiftags": "Nevažeći tag/ovi @%%NAME%%!",
-    "validgifrandom": "/me https:\/\/i.giphy.com\/%%ID%%.gif ( Nasumičan GIF )",
+    "validgifrandom": "/me https:\/\/i.giphy.com\/%%ID%%.gif ( Nasumično odabran GIF )",
     "invalidgifrandom": "@%%NAME%% greška, pokušaj ponovo!",
 
 
