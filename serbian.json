@@ -3,7 +3,7 @@
     "nodatafound": "Podaci od pre nisu učitani!",
     "datarestored": "Podaci od pre su uspešno učitani!",
     "greyuser": "Da bi me pokrenuo moraš biti menadžer ili neko veći!",
-    "online": "/me Evo me nazad mačkice! :heart: :gem:",
+    "online": null,
 
 
     "welcome": "@%%NAME%% :wave:",
@@ -139,6 +139,7 @@
     "stafflove": "@staff Volim vas :heart:",
     "test1": "/me test!",
     "test2": "test!",
+    "slack": "/me Slack (pozivnica) - https://goo.gl/THlODh :yum: Desktop aplikacija - https://goo.gl/4qMkIs :gem:",
     "free": "/me Sve u prodavnci je besplatno! potrebno je samo da izaberete nešto zatim idete na metod paypal i kucate bilo koju e-mail adresu i bilo koju šifru!",
     "stg": "/me https://i.imgur.com/3k5Ky5k.png",
     "notinwaitlist": "@%%NAME%% nisi u listi čekanja!",
