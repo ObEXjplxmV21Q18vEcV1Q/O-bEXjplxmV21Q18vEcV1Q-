@@ -169,7 +169,7 @@
     "mutedmaxtime": "@%%NAME%% možeš da ućutkaš korisnika na maksimalno %%TIME%% minuta.",
     "mutedtime": "@%%NAME%%, %%USERNAME%% je ućutkan/a na %%TIME%% minuta.",
     "unmuted": "@%%NAME%%, %%USERNAME%% nije više ućutkan/a!",
-    "unbanned": "@%%NAME%%, %%USERNAME%% nije više banovan/a!",
+    "unbanned": "@%%NAME%%, %%USERNAME%% nije više na listi izbačenih korisnika!",
     "muterank": "@%%NAME%% ne možeš ućutkati osobe sa istim ili većim rankom od sebe.",
     "banrank": "@%%NAME%% ne možeš izbaciti osobe sa istim ili većim rankom od sebe.",
     "oplist": "/me OP lista - %%LINK%%",
