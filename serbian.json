@@ -16,7 +16,7 @@
 
 
     "isopen": "@djs rulet je pokrenut! (kucajte !join da učestvujete!)",
-    "winnerpicked": "/me %%NAME%% (pozicija: %%POSITION%%!) :four_leaf_clover:!",
+    "winnerpicked": "/me @%%NAME%% :kissing_heart: ",
     
     "meow": "/me Meow! %%RESPONSE%%",
     "wasted": "/me Wasted! %%RESPONSE%%",
@@ -148,14 +148,14 @@
     "eta": "@%%NAME%% tvoja pozicija u listi čekanja: %%POSITION%%, puštaš pesmu za otprilike: %%TIME%% (ovo nije uvek tačno!)",
     "facebook": null,
     "starterhelp": "Ako ti treba pomoć @%%NAME%%, poseti ovu stranicu! - https://goo.gl/n9bD1B",
-    "roulettejoin": "Dobro došao/la u rulet @%%NAME%%! (kucaj !leave ako želiš da napustiš rulet!)",
+    "roulettejoin": null,
     "jointime": "@%%USERNAME%% je u sobi %%TIME%%",
     "kickrank": "@%%NAME%% ne možeš izbaciti korisnike sa istim ili većim rankom od sebe!",
     "banrank": "@%%NAME%% ne možeš da izbaciš korisnike sa većim ili istim rankom od sebe!",
     "kick": "@%%NAME%%, @%%USERNAME%% izbačen/a na %%TIME%% minut/a!",
     "die": "@%%NAME%% Gašenje...",
     "versionbot": "/me Trenutna verzija - %%VERSION%%",
-    "rouletteleave": "Napustio/la si rulet @%%NAME%%!",
+    "cantdothat": "@%%NAME%% ne mogu to da uradim :( ",
     "songlink": "@%%NAME%% link trenutne pesme - %%LINK%% :dvd:",
     "usedlockskip": "@%%NAME%% preskakanje pesme...",
     "lockskippos": "@%%NAME%% lockskip će pomeriti DJ-a na poziciju %%POSITION%%",
