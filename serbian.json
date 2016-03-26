@@ -140,6 +140,7 @@
     "test1": "/me test!",
     "test2": "test!",
     "slack": "/me Slack (pozivnica) - https://goo.gl/THlODh :yum: Desktop aplikacija - https://goo.gl/4qMkIs :gem:",
+    "slackinfo": "/me http://i.imgur.com/HcGLmEv.png",
     "free": "/me Sve u prodavnci je besplatno! potrebno je samo da izaberete nešto zatim idete na metod paypal i kucate bilo koju e-mail adresu i bilo koju šifru!",
     "stg": "/me https://i.imgur.com/3k5Ky5k.png",
     "notinwaitlist": "@%%NAME%% nisi u listi čekanja!",
