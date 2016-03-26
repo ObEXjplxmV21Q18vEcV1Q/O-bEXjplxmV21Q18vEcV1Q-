@@ -155,7 +155,7 @@
     "kick": "@%%NAME%%, @%%USERNAME%% izbačen/a na %%TIME%% minut/a!",
     "die": "@%%NAME%% Gašenje...",
     "versionbot": "/me Trenutna verzija - %%VERSION%%",
-    "cantdothat": "Napustio/la si rulet @%%NAME%%",
+    "rouletteleave": "Napustio/la si rulet @%%NAME%%",
     "songlink": "@%%NAME%% link trenutne pesme - %%LINK%% :dvd:",
     "usedlockskip": "@%%NAME%% preskakanje pesme...",
     "lockskippos": "@%%NAME%% lockskip će pomeriti DJ-a na poziciju %%POSITION%%",
