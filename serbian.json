@@ -25,7 +25,7 @@
     "ghosting": "@%%NAME1%%, %%NAME2%% je ubagovao/la ili nije tu.",
     
     "alreadyadding": "@%%NAME%% korisnik je već dodan i pomeren na poziciju %%POSITION%!%",
-    "adding": "@%%NAME%% dodan/a si na čekanje. (pozicija na čekanju: %%POSITION%%!)",
+    "adding": "@%%NAME%% bićeš pomeren/a najkasnije kada se završi trenutna pesma!",
 
 
     "usernotfound": "@%%NAME%% korisnik nije pronađen!",
@@ -91,7 +91,7 @@
     "maximumafktimeset": "@%%NAME%% maksimalno AFK vreme podešeno na %%TIME%% minut/a.",
     "afkstatusreset": "@%%NAME%% restartovanje AFK statusa od %%USERNAME%%",
     "inactivefor": "@%%USERNAME%% nije aktivan/a već %%TIME%%",
-    "rcs": "/me AutoWoot(Skripta) - https://goo.gl/ithTau :green_heart: Instalacija - https://goo.gl/Zuc8mR",
+    "rcs": "/me AutoWoot(Skripta) - https://goo.gl/ithTau :gem: Instalacija - https://goo.gl/Zuc8mR",
     "rce": "/me AutoWoot(Chrome dodatak) - https://goo.gl/6IiMuW",
     "brandambassador": "/me Brand Ambassador je globalni moderator sajta, za više informacija poseti - https://goo.gl/atvitk",
     "chatcleared": "@%%NAME%% brisanje poruka...",
