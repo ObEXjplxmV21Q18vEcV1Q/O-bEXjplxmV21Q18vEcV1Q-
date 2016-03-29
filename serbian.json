@@ -3,6 +3,10 @@
         "has given you a chocolate chip cookie!",
         "bakes you fresh cookies, it smells amazing."
     ],
+    "loves": [
+        "te voli! :heart:",
+        "želi da ti izjavi ljubav. :yum:"
+    ],
     "flirts": [
         "tvoje oči su veoma privlačne :heart_eyes:",
         "osećam se lepo u tvom prisustvu. :blush:",
@@ -222,7 +226,7 @@
     "selflove": "@%%NAME%% <3",
     "selfflirt": "Mislim da to nije pametno @%%NAME%%!",
     "cookie": "@%%NAMETO%% https://i.imgur.com/Pux5qAW.gif od: %%NAMEFROM%%!",
-    "love": "@%%NAMETO%% https://i.imgur.com/xWb4uGk.gif od: %%NAMEFROM%%!",
+    "love": "@%%NAMETO%%, %%NAMEFROM%% %%LOVES%%",
     "flirt": "Hej @%%NAMETO%%, %%FLIRTS%%",
     "cycleguardtime": "@%%NAME%% cycleguard je podešen na %%TIME%% minut/a.",
     "dclookuprank": "@%%NAME%% samo pomagač ili neko veći može uraditi DC za nekog korisnika.",
