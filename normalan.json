@@ -320,7 +320,7 @@
     "unmutedeveryone": "@%%NAME%% niko više nije ućutkan!",
     "unmuteeveryonerank": "@%%NAME%% samo menadžer ili neko veći može to da uradi.",
     "notmuted": "@%%NAME%%, %%USERNAME%% nije na listi ućutkanih korisnika.",
-    "unmuterank": "@%%NAME%% nemaš dozvoli da uradiš to!",
+    "unmuterank": "@%%NAME%% nemaš dozvolu da uradiš to!",
     "commandscd": "/me @%%NAME%% razmak između komandi podešen na %%TIME%% sekund(i).",
     "votestats": ":green_heart: %%WOOT%% | :broken_heart: %%MEHS%% (@%%USERNAME%%) ",
     "web": "/me Web Sajt: %%LINK%%",
