@@ -3,7 +3,8 @@
     "portuguese": "https://rawgit.com/Yemasthui/basicBot/master/lang/pt.json",
     "french": "https://rawgit.com/Yemasthui/basicBot/master/lang/fr.json",
     "turkish": "https://rawgit.com/Yemasthui/basicBot/master/lang/tr.json",
-    "serbian": "https://rawgit.com/jbcvsivbsib/lang/master/serbian.json",
+    "normal": "https://rawgit.com/jbcvsivbsib/lang/master/normal.json",
+    "bossmode": "https://rawgit.com/jbcvsivbsib/lang/master/bossmode.json",
     "chinese": "https://rawgit.com/Yemasthui/basicBot/master/lang/zh.json",
     "dutch": "https://rawgit.com/Yemasthui/basicBot/master/lang/nl.json",
     "latvian": "https://rawgit.com/Yemasthui/basicBot/master/lang/lv.json"
