@@ -299,7 +299,7 @@
     "pong": "@%%NAME%% Pong! :eyes:",
     "reload": "/me Odmah se vraćam!",
     "removenotinwl": "@%%NAME%%, %%USERNAME%% nije u listi čekanja.",
-    "roomrules": "/me Sva pravila sobe možete pronaći ovde - http://bit.ly/st-pravila",
+    "roomrules": "/me Sva pravila sobe možete pronaći ovde - %%LINK%%",
     "enroomrules": "/me Read the rules here - %%LINK%%",
     "session": "/me :green_heart: %%WOOTS%% │ :broken_heart: %%MEHS%% │ :star: %%GRABS%%",
     "skip": "@%%NAME%% preskakanje pesme...",
