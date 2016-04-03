@@ -1,11 +1,11 @@
 {
-    "english": "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-    "portuguese": "https://rawgit.com/Yemasthui/basicBot/master/lang/pt.json",
-    "french": "https://rawgit.com/Yemasthui/basicBot/master/lang/fr.json",
-    "turkish": "https://rawgit.com/Yemasthui/basicBot/master/lang/tr.json",
-    "normal": "https://rawgit.com/jbcvsivbsib/lang/master/normal.json",
-    "bossmode": "https://rawgit.com/jbcvsivbsib/lang/master/bossmode.json",
-    "chinese": "https://rawgit.com/Yemasthui/basicBot/master/lang/zh.json",
-    "dutch": "https://rawgit.com/Yemasthui/basicBot/master/lang/nl.json",
-    "latvian": "https://rawgit.com/Yemasthui/basicBot/master/lang/lv.json"
+    "necedamoze": "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+    "necedamoze2": "https://rawgit.com/Yemasthui/basicBot/master/lang/pt.json",
+    "necedamoze3": "https://rawgit.com/Yemasthui/basicBot/master/lang/fr.json",
+    "necedamoze4": "https://rawgit.com/Yemasthui/basicBot/master/lang/tr.json",
+    "normalan": "https://rawgit.com/jbcvsivbsib/lang/master/normalan.json",
+    "boss": "https://rawgit.com/jbcvsivbsib/lang/master/boss.json",
+    "necedamoze5": "https://rawgit.com/Yemasthui/basicBot/master/lang/zh.json",
+    "necedamoze6": "https://rawgit.com/Yemasthui/basicBot/master/lang/nl.json",
+    "necedamoze7": "https://rawgit.com/Yemasthui/basicBot/master/lang/lv.json"
 }
