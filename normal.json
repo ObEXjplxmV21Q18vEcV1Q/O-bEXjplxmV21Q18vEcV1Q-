@@ -122,6 +122,7 @@
     "nodatafound": "Moduli nisu učitani",
     "datarestored": "Svi moduli su uspešno učitani!",
     "greyuser": "Hej! moraš biti menadžer ili neko veći da bi mogao/la da me pokreneš!",
+    "currentlang": "/me Bot je podešen na: %%LANGUAGE%% mod!",
     "online": null,
 
 
