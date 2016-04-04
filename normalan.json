@@ -331,5 +331,8 @@
     "rulesalert2": "please, read the rules - http://bit.ly/rules-en",
     "youtube": "/me YouTube: %%LINK%%",
     "stuck": "/me Pesma je ubagovla, preskakanje...",
+    "selfrules": "@%%NAME%% O.O",
+    "rulesssr": "@%%NAMETO%% molim te, pročitaj pravila: http://bit.ly/rules-sr",
+    "rulessen": "@%%NAMETO%% please, read the rules: http://bit.ly/rules-en",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
