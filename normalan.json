@@ -18,11 +18,12 @@
         "hoćeš da se istuširamo zajedno večeras? mmm :shower:",
         "umm oćeš da se prošetamo večeras? :3 :couple:",
         "goriš od lepote. :fire: :heart:",
-        "kakvu vrstu muzike slušaš? :smile: :notes:",
-        "hoću da me zagrliš u 00:00! :heart:",
+        "ne mogu da ti opišem koliko zračiš! :sparkles:",
+        "zagrli me u u 00:00! :heart:",
         "tvoje obline me prosto mame.",
         "šta radiš večeras? :flushed:",
         "pravo je vreme da se malo bolje upoznamo! :relieved:",
+        "jesi li za FB vezu? :trollface:",
         "jesi li za sladoled? :) :ice_cream:",
         "budi moja pratnja na maturi. :rose:",
         "hoćeš da se šetamo večeras po mesečini? :blush: :crescent_moon:",
@@ -119,11 +120,11 @@
         "https://i.imgur.com/CPhNtdo.gif",
         "https://i.imgur.com/Y6UJ748.gif"
     ],
-    "nodatafound": "Moduli nisu učitani",
-    "datarestored": "Svi moduli su uspešno učitani!",
-    "greyuser": "Hej! moraš biti menadžer ili neko veći da bi mogao/la da me pokreneš!",
+    "nodatafound": "Prethodno sačuvani moduli nisu učitani",
+    "datarestored": "Prethodno sačuvani moduli su uspešno učitani!",
+    "greyuser": "Hej, moraš biti menadžer ili neko veći da bi mogao/la da me pokreneš!",
     "currentlang": "/me Trenutno sam podešen na: %%LANGUAGE%% mod!",
-    "langerror": "/me Mod nije dostupan!",
+    "langerror": "/me Navedeni mod nije dostupan!",
     "langset": "/me Podešen sam na: %%LANGUAGE%% mod!",
     "online": null,
 
@@ -138,7 +139,7 @@
 
 
     "isopen": "@djs rulet je pokrenut! (kucajte !join da učestvujete!)",
-    "winnerpicked": "/me @%%NAME%% :kissing_heart: ",
+    "winnerpicked": "/me Čestitam! @%%NAME%% :tada:",
     
     "meow": "/me Meow! %%RESPONSE%%",
     "wasted": "/me Wasted! %%RESPONSE%%",
@@ -146,7 +147,7 @@
     "notghosting": "@%%NAME1%%, %%NAME2%% nije ubagovao(la).",
     "ghosting": "@%%NAME1%%, %%NAME2%% je ubagovao(la) ili nije tu.",
     
-    "alreadyadding": "@%%NAME%% korisnik je već dodan i pomeren na poziciju %%POSITION%!%",
+    "alreadyadding": "@%%NAME%% korisnik je već dodan i pomeren na poziciju %%POSITION%%",
     "adding": "@%%NAME%% bićeš pomeren(a) najkasnije kada se završi trenutna pesma!",
 
 
@@ -182,6 +183,8 @@
     "toggleoff": "@%%NAME%% %%FUNCTION%% isključeno!",
     "toggleon2": "@%%NAME%% %%FUNCTION%% uključena!",
     "toggleoff2": "@%%NAME%% %%FUNCTION%% isključena!",
+    "toggleon3": "@%%NAME%% %%FUNCTION%% uključene!",
+    "toggleoff3": "@%%NAME%% %%FUNCTION%% isključene!"
     "cmddeletion": "brisanje komandi",
     "afkremoval": "AFK uklanjanje",
     "afksremoved": "AFK korisnici uklonjeni",
@@ -231,9 +234,9 @@
     "selfflirt": "Mislim da to nije pametno @%%NAME%%!",
     "cookie": "@%%NAMETO%% https://i.imgur.com/Pux5qAW.gif od: %%NAMEFROM%%!",
     "love": "@%%NAMETO%%, %%NAMEFROM%% %%LOVES%%",
-    "flirt": "Hej @%%NAMETO%%, %%FLIRTS%%",
+    "flirt": "Hej, @%%NAMETO%%, %%FLIRTS%%",
     "cycleguardtime": "@%%NAME%% cycleguard je podešen na %%TIME%% minut(a).",
-    "dclookuprank": "@%%NAME%% samo pomagač ili neko veći može uraditi DC za nekog korisnika.",
+    "dclookuprank": "@%%NAME%% samo pomagač ili neko veći može uraditi DC za korisnika.",
     "emojilist": "/me Lista smajlija: %%LINK%%",
     "caps": "/me Nije dozvoljeno pisati VELIKIM slovima!",
     "plugfb": "/me plug.dj facebook: http://bit.ly/plug-fb",
@@ -287,7 +290,7 @@
     "lockguardtime": "@%%NAME%% lockguard je podešen na: %%TIME%% minut(a).",
     "maxlengthtime": "@%%NAME%% maksimalno trajanje pesme podešeno na %%TIME%% minut(a).",
     "motdset": "/me Automatska poruka podešena: %%MSG%%",
-    "motdintervalset": "@%%NAME%% interval automatske poruke podešen na %%INTERVAL%%",
+    "motdintervalset": "@%%NAME%% interval automatske poruke podešen na %%INTERVAL%% pesme",
     "addbotwaitlist": "@%%NAME%% nemoj pokušavati da me dodaš u listu :pray::skin-tone-3:",
     "move": "@%%NAME%% pomeranje...",
     "mutednotime": "@%%NAME%%, %%USERNAME%% je ućutkan(a) :no_mouth:",
@@ -327,5 +330,6 @@
     "rulesalert1": "molim te, pročitaj pravila - http://bit.ly/rules-en",
     "rulesalert2": "please, read the rules - http://bit.ly/rules-en",
     "youtube": "/me YouTube: %%LINK%%",
+    "stuck": "/me Pesma je ubagovla, preskakanje...",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
