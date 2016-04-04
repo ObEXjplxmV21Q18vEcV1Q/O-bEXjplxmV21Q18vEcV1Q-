@@ -284,8 +284,8 @@
     "songlink": "@%%NAME%% link trenutne pesme: %%LINK%% :dvd:",
     "usedlockskip": "@%%NAME%% preskakanje pesme...",
     "lockskippos": "@%%NAME%% nakon preskakanja pesme pomeriću korisnika na poziciju %%POSITION%%",
-    "lockguardtime": "@%%NAME%% lockguard je podešen na: %%TIME%% minut/a.",
-    "maxlengthtime": "@%%NAME%% maksimalno trajanje pesme podešeno na %%TIME%% minut/a.",
+    "lockguardtime": "@%%NAME%% lockguard je podešen na: %%TIME%% minut(a).",
+    "maxlengthtime": "@%%NAME%% maksimalno trajanje pesme podešeno na %%TIME%% minut(a).",
     "motdset": "/me Automatska poruka podešena: %%MSG%%",
     "motdintervalset": "@%%NAME%% interval automatske poruke podešen na %%INTERVAL%%",
     "addbotwaitlist": "@%%NAME%% nemoj pokušavati da me dodaš u listu :pray::skin-tone-3:",
@@ -325,9 +325,5 @@
     "votestats": ":green_heart: %%WOOT%% | :broken_heart: %%MEHS%% (@%%USERNAME%%) ",
     "web": "/me Web Sajt: %%LINK%%",
     "youtube": "/me YouTube: %%LINK%%",
-    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%",
-    "thorNotClose": "@%%NAME%% više sreće drugi put!",
-    "thorcd": "@%%NAME%% pokušaj ponovo za %%TIME%% minuta.",
-    "thorWorthy": "@%%NAME%% :cherries: │ :cherries: │ :cherries:",
-    "thorNotWorthy": "@%%NAME%% :bomb: │ :bomb: │ :bomb:"
+    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
