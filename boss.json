@@ -323,6 +323,8 @@
     "commandscd": "/me @%%NAME%% RAZMAK IZMEĐU KOMANDI PODEŠEN NA %%TIME%% SEKUND(I).",
     "votestats": ":green_heart: %%WOOT%% | :broken_heart: %%MEHS%% (@%%USERNAME%%)",
     "web": "/me WEB SAJT: %%LINK%%",
+    "rulesalert1": "molim te, pročitaj pravila - http://bit.ly/rules-sr",
+    "web": "/me WEB SAJT: %%LINK%%",
     "youtube": "/me YOUTUBE: %%LINK%%",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
