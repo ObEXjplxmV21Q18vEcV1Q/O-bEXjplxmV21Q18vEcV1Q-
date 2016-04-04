@@ -275,7 +275,7 @@
     "youaredj": "@%%NAME%% trenutno puštaš!",
     "eta": "@%%NAME%% tvoja pozicija u listi čekanja: %%POSITION%%, puštaš pesmu za otprilike: %%TIME%% (ovo nije uvek tačno!)",
     "facebook": null,
-    "starterhelp": "Ako ti treba pomoć @%%NAME%%, poseti ovu stranicu: http://bit.ly/plug-help",
+    "starterhelp": "Ako ti treba pomoć @%%NAME%%, poseti ovu stranicu: http://bit.ly/help-plug",
     "roulettejoin": "Dobro došao(la) u rulet @%%NAME%% (kucaj !leave ako želiš da napustiš!)",
     "jointime": "@%%NAME%%, %%USERNAME%% je u ovde %%TIME%%",
     "kickrank": "@%%NAME%% ne možeš da izbaciš korisnike sa istim ili većim rankom od sebe!",
