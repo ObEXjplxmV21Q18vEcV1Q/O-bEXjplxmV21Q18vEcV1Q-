@@ -331,7 +331,7 @@
     "web": "/me WEB SAJT: %%LINK%%",
     "youtube": "/me YOUTUBE: %%LINK%%",
     "stuck": "/me PESMA JE UBAGOVALA, PRESKAKANJE...",
-    "selfrules": "@%%NAME%% O.O",
+    "selfrules": "@%%NAME%% O_O",
     "rulesssr": "@%%NAMETO%% MOLIM TE, PROČITAJ PRAVILA: http://bit.ly/rules-sr",
     "rulessen": "@%%NAMETO%% PLEASE, READ THE RULES: http://bit.ly/rules-en",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
