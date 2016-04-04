@@ -321,8 +321,8 @@
     "notmuted": "@%%NAME%%, %%USERNAME%% NIJE NA LISTI UĆUTKANIH KORISNIKAa.",
     "unmuterank": "@%%NAME%% NEMAŠ DOZVOLU DA URADIŠ TO!",
     "commandscd": "/me @%%NAME%% RAZMAK IZMEĐU KOMANDI PODEŠEN NA %%TIME%% SEKUND(I).",
-    "votestats": ":green_heart: %%WOOT%% | :broken_heart: %%MEHS%% (@%%USERNAME%%) ",
+    "votestats": ":green_heart: %%WOOT%% | :broken_heart: %%MEHS%% (@%%USERNAME%%)",
     "web": "/me WEB SAJT: %%LINK%%",
     "youtube": "/me YOUTUBE: %%LINK%%",
-    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%",
+    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
