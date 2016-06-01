@@ -1,11 +1,15 @@
 {
-    "necedamoze": "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-    "necedamoze2": "https://rawgit.com/Yemasthui/basicBot/master/lang/pt.json",
-    "necedamoze3": "https://rawgit.com/Yemasthui/basicBot/master/lang/fr.json",
-    "necedamoze4": "https://rawgit.com/Yemasthui/basicBot/master/lang/tr.json",
-    "serbian": "https://rawgit.com/jbcvsivbsib/lang/master/serbian.json",
-    "boss": "https://rawgit.com/jbcvsivbsib/lang/master/boss.json",
-    "necedamoze5": "https://rawgit.com/Yemasthui/basicBot/master/lang/zh.json",
-    "necedamoze6": "https://rawgit.com/Yemasthui/basicBot/master/lang/nl.json",
-    "necedamoze7": "https://rawgit.com/Yemasthui/basicBot/master/lang/lv.json"
+    "czech": "https://rawgit.com/basicBot/source/master/lang/cs.json",
+    "german": "https://rawgit.com/basicBot/source/master/lang/de.json",
+    "english": "https://rawgit.com/basicBot/source/master/lang/en.json",
+    "spanish": "https://rawgit.com/basicBot/source/master/lang/es-ES.json",
+    "french": "https://rawgit.com/basicBot/source/master/lang/fr.json",
+    "latvian": "https://rawgit.com/basicBot/source/master/lang/lv-LV.json",
+    "malay": "https://rawgit.com/basicBot/source/master/lang/ms.json",
+    "dutch": "https://rawgit.com/basicBot/source/master/lang/nl.json",
+    "polish": "https://rawgit.com/basicBot/source/master/lang/pl.json",
+    "portuguese": "https://rawgit.com/basicBot/source/master/lang/pt-BR.json",
+    "serbian": "https://rawgit.com/apoufhp9asiufgapiufg/pifhnjas-fn-aso/master/serbian.json",
+    "turkish": "https://rawgit.com/basicBot/source/master/lang/tr.json",
+    "chinese": "https://rawgit.com/basicBot/source/master/lang/zh-TW.json"
 }
