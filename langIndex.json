@@ -8,8 +8,8 @@
     "malay": "https://rawgit.com/basicBot/source/master/lang/ms.json",
     "dutch": "https://rawgit.com/basicBot/source/master/lang/nl.json",
     "polish": "https://rawgit.com/basicBot/source/master/lang/pl.json",
-    "portuguese": "https://rawgit.com/basicBot/source/master/lang/pt-BR.json",
-    "serbian": "https://rawgit.com/apoufhp9asiufgapiufg/pifhnjas-fn-aso/master/serbian.json",
+    "boss": "https://rawgit.com/apoufhp9asiufgapiufg/pifhnjas-fn-aso/master/boss.json",
+    "normalan": "https://rawgit.com/apoufhp9asiufgapiufg/pifhnjas-fn-aso/master/normalan.json",
     "turkish": "https://rawgit.com/basicBot/source/master/lang/tr.json",
     "chinese": "https://rawgit.com/basicBot/source/master/lang/zh-TW.json"
 }
