@@ -184,7 +184,7 @@
     "toggleon2": "@%%NAME%% %%FUNCTION%% uključena!",
     "toggleoff2": "@%%NAME%% %%FUNCTION%% isključena!",
     "toggleon3": "@%%NAME%% %%FUNCTION%% uključene!",
-    "toggleoff3": "@%%NAME%% %%FUNCTION%% isključene!"
+    "toggleoff3": "@%%NAME%% %%FUNCTION%% isključene!",
     "cmddeletion": "brisanje komandi",
     "afkremoval": "AFK uklanjanje",
     "afksremoved": "AFK korisnici uklonjeni",
