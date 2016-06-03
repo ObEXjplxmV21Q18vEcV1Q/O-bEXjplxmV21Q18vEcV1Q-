@@ -282,7 +282,7 @@
     "banrank": "@%%NAME%% ne možeš da izbaciš korisnike sa većim ili istim rankom od sebe!",
     "kick": "@%%NAME%%, %%USERNAME%% je izbačen(a) na %%TIME%% minut(a)!",
     "die": "@%%NAME%% Gašenje...",
-    "versionbot": "/me Trenutna verzija: %%VERSION%%",
+    "versionbot": "/me ST ARMY BOT v%%VERSION%%",
     "rouletteleave": "Napustio(la) si rulet @%%NAME%%",
     "songlink": "@%%NAME%% link trenutne pesme: %%LINK%% :dvd:",
     "usedlockskip": "@%%NAME%% preskakanje pesme...",
