@@ -125,7 +125,7 @@
     "greyuser": "Hej, moraš biti menadžer ili neko veći da bi mogao(la) da me pokreneš!",
     "currentlang": "/me Trenutno sam podešen na: %%LANGUAGE%% mod!",
     "langerror": "/me Navedeni mod nije dostupan!",
-    "langset": "/me Podešen sam na: %%LANGUAGE%% mod!",
+    "langset": "/me Mod je promenjen!",
     "online": null,
 
 
