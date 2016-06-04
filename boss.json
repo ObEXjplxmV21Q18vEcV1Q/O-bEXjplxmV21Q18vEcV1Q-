@@ -281,7 +281,7 @@
     "banrank": "@%%NAME%% NE MOŽEŠ DA IZBACIŠ KORISNIKE SA ISTIM ILI VEĆIM RANKOM OD SEBE",
     "kick": "@%%NAME%%, %%USERNAME%% JE IZBAČEN(A) NA %%TIME%% MINUT(A)!",
     "die": "@%%NAME%% GAŠENJE...",
-    "versionbot": "/me TRENUTNA VERZIJA: %%VERSION%%",
+    "versionbot": "/me ST ARMY BOT V%%VERSION%%",
     "rouletteleave": "NAPUSTIO(LA) SI RULET @%%NAME%%",
     "songlink": "@%%NAME%% LINK TRENUTNE PESME: %%LINK%% :dvd:",
     "usedlockskip": "@%%NAME%% PRESKAKANJE PESME...",
