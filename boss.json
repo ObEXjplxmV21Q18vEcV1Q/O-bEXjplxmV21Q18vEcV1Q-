@@ -331,6 +331,7 @@
     "web": "/me WEB SAJT: %%LINK%%",
     "youtube": "/me YOUTUBE: %%LINK%%",
     "stuck": "/me PESMA JE UBAGOVALA, PRESKAKANJE...",
+    "basicbot": "/me BASICBOT: http://bit.ly/basicB",
     "selfrules": "@%%NAME%% O_O",
     "rulesssr": "@%%NAMETO%% MOLIM TE, PROČITAJ PRAVILA: http://bit.ly/rules-sr",
     "rulessen": "@%%NAMETO%% PLEASE, READ THE RULES: http://bit.ly/rules-en",
