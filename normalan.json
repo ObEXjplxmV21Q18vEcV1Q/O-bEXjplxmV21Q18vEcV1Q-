@@ -234,7 +234,7 @@
     "selfflirt": "Mislim da to nije pametno @%%NAME%%!",
     "cookie": "@%%NAMETO%% https://i.imgur.com/Pux5qAW.gif od: %%NAMEFROM%%!",
     "love": "@%%NAMETO%%, %%NAMEFROM%% %%LOVES%%",
-    "flirt": "Hej, @%%NAMETO%%, %%FLIRTS%%",
+    "flirt": "Hej @%%NAMETO%%, %%FLIRTS%%",
     "cycleguardtime": "@%%NAME%% Cycleguard je podešen na %%TIME%% minut(a).",
     "dclookuprank": "@%%NAME%% Samo pomagač ili neko veći može uraditi DC za korisnika.",
     "emojilist": "/me Lista smajlija: %%LINK%%",
