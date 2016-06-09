@@ -282,7 +282,7 @@
     "kick": "@%%NAME%%, %%USERNAME%% Je izbačen(a) na %%TIME%% minut(a)!",
     "die": "@%%NAME%% Gašenje...",
     "versionbot": "/me ST ARMY BOT v%%VERSION%%",
-    "rouletteleave": "Napustio(la) si rulet @%%NAME%%",
+    "rouletteleave": "@%%NAME%% Ne smem to da uradim. :(",
     "songlink": "@%%NAME%% Link trenutne pesme: %%LINK%% :dvd:",
     "usedlockskip": "@%%NAME%% Preskakanje pesme...",
     "lockskippos": "@%%NAME%% Nakon preskakanja pesme pomeriću korisnika na poziciju %%POSITION%%",
