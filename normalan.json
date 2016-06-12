@@ -191,6 +191,7 @@
     "afkremoval": "AFK uklanjanje",
     "afksremoved": "AFK korisnici uklonjeni",
     "afklimit": "AFK limit",
+    "autoban": "Automatsko izbacivanje korisnika koji mehuju %%LIMIT%% pesama za redom",
     "autoroulette": "Automatsko paljenje ruleta",
     "autoskip": "Preskakanje ubagovalih pesama",
     "newblacklisted": "@%%NAME%% Ova pesma pripada %%BLACKLIST%% zabranjenim pesmama! ( %%AUTHOR%% - %%TITLE%% - %%MID%% )",
@@ -199,7 +200,7 @@
     "cycleguard": "Cycleguard",
     "dance": "@%%NAME%% AutoWoot aktiviran!",
     "awoff": "AutoWoot :negative_squared_cross_mark:",
-    "timeguard": "Preskakanje pesama dužih od X minut(a)",
+    "timeguard": "Preskakanje pesama dužih od %%LIMIT%% minuta",
     "chatfilter": "Filtriranje četa",
     "historyskip": "Preskakanje pesama u istoriji",
     "lockdown": "Zaleđivanje četa",
@@ -336,5 +337,6 @@
     "selfrules": "@%%NAME%% O_O",
     "rulesssr": "@%%NAMETO%% Molim te, pročitaj pravila: http://bit.ly/rules-sr",
     "rulessen": "@%%NAMETO%% Please, read the rules: http://bit.ly/rules-en",
+    "mehbanned": "@%%NAME%% Mehovanje %%LIMIT%% pesama za redom = ban!",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
