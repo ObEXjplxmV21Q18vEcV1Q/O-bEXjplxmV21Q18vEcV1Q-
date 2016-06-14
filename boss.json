@@ -337,6 +337,6 @@
     "mehbanned": "@%%NAME%% MEHOVANJE 5 PESAMA ZA REDOM = BAN!",
     "skiphistory": "@%%NAME%% PRESKAKANJE PESME... [U ISTORIJI!]",
     "skipdead": "@%%NAME%% PRESKAKANJE PESME... [NIJE DOSTUPNA!]",
-    "skipdead": "@%%NAME%% PRESKAKANJE PESME... [PROTIV PRAVILA!]",
+    "skiprules": "@%%NAME%% PRESKAKANJE PESME... [PROTIV PRAVILA!]",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
