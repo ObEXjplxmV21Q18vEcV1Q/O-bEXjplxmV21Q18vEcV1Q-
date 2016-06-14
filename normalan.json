@@ -304,7 +304,7 @@
     "banrank": "@%%NAME%% Ne možeš izbaciti osobe sa istim ili većim rankom od sebe.",
     "oplist": "/me OP lista - %%LINK%%",
     "pong": "@%%NAME%% Pong! :eyes:",
-    "reload": "/me Svi moduli su uspešno osveženi!",
+    "reload": "@%%NAME%% Svi moduli su uspešno osveženi!",
     "removenotinwl": "@%%NAME%%, %%USERNAME%% Nije u listi čekanja.",
     "roomrules": "/me Sva pravila sobe možete pronaći ovde: %%LINK%%",
     "enroomrules": "/me Read the rules here: %%LINK%%",
@@ -337,6 +337,6 @@
     "selfrules": "@%%NAME%% O_O",
     "rulesssr": "@%%NAMETO%% Molim te, pročitaj pravila: http://bit.ly/rules-sr",
     "rulessen": "@%%NAMETO%% Please, read the rules: http://bit.ly/rules-en",
-    "mehbanned": "@%%NAME%% Mehovanje %%LIMIT%% pesama za redom = ban!",
+    "mehbanned": "@%%NAME%% Mehovanje 5 pesama za redom = ban!",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
