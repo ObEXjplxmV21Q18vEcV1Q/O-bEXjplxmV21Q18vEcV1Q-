@@ -292,6 +292,7 @@
     "lockguardtime": "@%%NAME%% Lockguard je podešen na: %%TIME%% minut(a).",
     "maxlengthtime": "@%%NAME%% Maksimalno trajanje pesme podešeno na %%TIME%% minut(a).",
     "motdset": "/me Automatska poruka podešena!",
+    "sayset": "%%MSG%%",
     "motdintervalset": "@%%NAME%% Interval automatske poruke podešen na %%INTERVAL%% pesme",
     "addbotwaitlist": "@%%NAME%% Nemoj pokušavati da me dodaš u listu :pray::skin-tone-3:",
     "move": "@%%NAME%% Pomeranje...",
