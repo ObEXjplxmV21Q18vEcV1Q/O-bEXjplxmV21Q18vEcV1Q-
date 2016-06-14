@@ -337,6 +337,6 @@
     "mehbanned": "@%%NAME%% Mehovanje 5 pesama za redom = ban!",
     "skiphistory": "@%%NAME%% Preskakanje pesme... [u istoriji!]",
     "skipdead": "@%%NAME%% Preskakanje pesme... [nije dostupna!]",
-    "skipdead": "@%%NAME%% Preskakanje pesme... [protiv pravila!]",
+    "skiprules": "@%%NAME%% Preskakanje pesme... [protiv pravila!]",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
