@@ -140,7 +140,7 @@
     "isblacklisted": "/me Ova pesma je na listi zabranjenih pesama!",
 
 
-    "isopen": "@djs Rulet je pokrenut! (kucajte !join da učestvujete!)",
+    "isopen": "@djs Rulet je pokrenut! [kucajte !join da učestvujete!]",
     "winnerpicked": "/me Čestitam! @%%NAME%% :tada:",
     
     "meow": "/me Meow! %%RESPONSE%%",
@@ -158,7 +158,7 @@
     "notinwl": "@%%NAME%% Nisi bio(la) u listi čekanja!",
     "noposition": "/me Poslednja pozicija nije zapamćena!",
     "toolongago": "@%%NAME%% Ti si se isključio(la) pre %%TIME%% ",
-    "valid": "@%%NAME%% Ti si se isključio(la) pre %%TIME%% (pozicija: %%POSITION%%!)",
+    "valid": "@%%NAME%% Ti si se isključio(la) pre %%TIME%% [pozicija: %%POSITION%%!]",
 
 
     "warning1": "Upozorenje @%%NAME%% :warning: (AFK)",
@@ -166,9 +166,9 @@
     "afkremove": "@%%NAME%% Uklonjen(a) si iz liste čekanja!",
 
 
-    "validgiftags": "/me https:\/\/i.giphy.com\/%%ID%%.gif ( #%%TAGS%% )",
+    "validgiftags": "/me https:\/\/i.giphy.com\/%%ID%%.gif [#%%TAGS%%]",
     "invalidgiftags": "Nevažeći tag(ovi) @%%NAME%%!",
-    "validgifrandom": "/me https:\/\/i.giphy.com\/%%ID%%.gif ( Nasumično odabran GIF )",
+    "validgifrandom": "/me https:\/\/i.giphy.com\/%%ID%%.gif [Nasumično odabran GIF]",
     "invalidgifrandom": "@%%NAME%% Greška, pokušaj ponovo!",
 
 
@@ -194,7 +194,7 @@
     "autoban": "Automatsko izbacivanje korisnika koji mehuju X pesama za redom",
     "autoroulette": "Automatsko paljenje ruleta",
     "autoskip": "Preskakanje ubagovalih pesama",
-    "newblacklisted": "@%%NAME%% Ova pesma pripada %%BLACKLIST%% zabranjenim pesmama! ( %%AUTHOR%% - %%TITLE%% - %%MID%% )",
+    "newblacklisted": "@%%NAME%% Ova pesma pripada %%BLACKLIST%% zabranjenim pesmama! [ %%AUTHOR%% - %%TITLE%% - %%MID%% ]",
     "blinfo": "@%%NAME%% Blacklist info: autor: %%AUTHOR%%, naslov: %%TITLE%%, ID: %%SONGID%%",
     "blacklist": "Crna lista",
     "cycleguard": "Cycleguard",
@@ -219,8 +219,8 @@
     "maximumafktimeset": "@%%NAME%% Maksimalno AFK vreme podešeno na %%TIME%% minut(a).",
     "afkstatusreset": "@%%NAME%% Restartovanje AFK statusa od %%USERNAME%%",
     "inactivefor": "@%%NAME%%, %%USERNAME%% Nije aktivan(a) već %%TIME%%",
-    "rcs": "/me AutoWoot(Skripta) - http://bit.ly/rcs-1 :gem: Instalacija - http://bit.ly/rcs-i",
-    "rce": "/me AutoWoot(Chrome dodatak) - http://bit.ly/rcs-2",
+    "rcs": "/me AutoWoot[Skripta] - http://bit.ly/rcs-1 :gem: Instalacija - http://bit.ly/rcs-i",
+    "rce": "/me AutoWoot[Chrome dodatak] - http://bit.ly/rcs-2",
     "brandambassador": "/me BrandAmbassador je globalni moderator sajta, za više informacija poseti: http://bit.ly/plug-ba",
     "chatcleared": "@%%NAME%% Brisanje poruka...",
     "deletechat": "@%%NAME%% Brisanje poruka od %%USERNAME%%!",
@@ -268,15 +268,15 @@
     "mehmuteshh": "/me https://i.imgur.com/xr83Vfl.png",
     "stafflove": "@staff Volim vas :heart:",
     "test": "/me Test 321",
-    "slack": "/me Slack(pozivnica) - http://bit.ly/slack-i :gem: Slack(login) - http://bit.ly/slack-l :yum:",
-    "slackd": "/me Slack(desktop aplikacija) - http://bit.ly/slack-d :yum:",
+    "slack": "/me Slack[pozivnica] - http://bit.ly/slack-i :gem: Slack[login] - http://bit.ly/slack-l :yum:",
+    "slackd": "/me Slack[desktop aplikacija] - http://bit.ly/slack-d :yum:",
     "slackinfo": "/me https://i.imgur.com/HcGLmEv.png",
     "stginfo": "/me https://i.imgur.com/3k5Ky5k.png",
     "nolag": "/me Laguje ti? pokušaj da podesiš plug.dj ovako: https://i.imgur.com/PQ1AIqX.png",
     "notinwaitlist": "@%%NAME%% Nisi u listi čekanja!",
     "youarenext": "@%%NAME%% Ti puštaš sledeći(a)!",
     "youaredj": "@%%NAME%% Trenutno puštaš pesmu!",
-    "eta": "@%%NAME%% Tvoja pozicija u listi čekanja: %%POSITION%%, puštaš pesmu za otprilike: %%TIME%% (ovo nije uvek tačno!)",
+    "eta": "@%%NAME%% Tvoja pozicija u listi čekanja: %%POSITION%%, puštaš pesmu za otprilike: %%TIME%% [ovo nije uvek tačno!]",
     "facebook": null,
     "starterhelp": "Ako ti treba pomoć @%%NAME%%, poseti ovu stranicu: http://bit.ly/help-plug",
     "roulettejoin": "Dobro došao(la) u rulet @%%NAME%%!",
@@ -310,9 +310,6 @@
     "enroomrules": "/me Read the rules here: %%LINK%%",
     "session": "/me :green_heart: %%WOOTS%% │ :broken_heart: %%MEHS%% │ :star: %%GRABS%%",
     "skip": "@%%NAME%% Preskakanje pesme...",
-    "history1": "@%%NAME%% Preskakanje pesme jer je u istoriji!",
-    "unavailable": "@%%NAME%% Preskakanje pesme jer nije dostupna!",
-    "notofficial": "@%%NAME%% Preskakanje pesme jer nije oficijalna!",
     "live": "@%%NAME%% Preskakanje pesme jer je uživo!",
     "madeby": "/me EveBot by PICKORITA!",
     "activefor": "Aktivna sam: %%TIME%%",
@@ -327,7 +324,7 @@
     "notmuted": "@%%NAME%%, %%USERNAME%% Nije na listi ućutkanih korisnika.",
     "unmuterank": "@%%NAME%% Nemaš dozvolu da uradiš to!",
     "commandscd": "/me @%%NAME%% Razmak između komandi podešen na %%TIME%% sekund(i).",
-    "votestats": ":green_heart: %%WOOT%% | :broken_heart: %%MEHS%% (@%%USERNAME%%) ",
+    "votestats": ":green_heart: %%WOOT%% | :broken_heart: %%MEHS%% [@%%USERNAME%%] ",
     "web": "/me Web Sajt: %%LINK%%",
     "rulesalert1": "Molim te, pročitaj pravila: http://bit.ly/rules-en",
     "rulesalert2": "Please, read the rules: http://bit.ly/rules-en",
@@ -338,5 +335,8 @@
     "rulesssr": "@%%NAMETO%% Molim te, pročitaj pravila: http://bit.ly/rules-sr",
     "rulessen": "@%%NAMETO%% Please, read the rules: http://bit.ly/rules-en",
     "mehbanned": "@%%NAME%% Mehovanje 5 pesama za redom = ban!",
+    "skiphistory": "@%%NAME%% Preskakanje pesme... [u istoriji!]",
+    "skipdead": "@%%NAME%% Preskakanje pesme... [nije dostupna!]",
+    "skipdead": "@%%NAME%% Preskakanje pesme... [protiv pravila!]",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
