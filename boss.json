@@ -338,5 +338,6 @@
     "skiphistory": "@%%NAME%% PRESKAKANJE PESME... [U ISTORIJI!]",
     "skipdead": "@%%NAME%% PRESKAKANJE PESME... [NIJE DOSTUPNA!]",
     "skiprules": "@%%NAME%% PRESKAKANJE PESME... [PROTIV PRAVILA!]",
+    "sayset": "%%MSG%%",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
