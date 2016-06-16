@@ -174,6 +174,7 @@
 
     "invalidtime": "@%%NAME%% Vreme nije ispravno!",
     "nouserspecified": "@%%NAME%% Korisnik nije naveden!",
+    "notimespecified": "@%%NAME%% Vreme nije navedeno!",
     "invaliduserspecified": "@%%NAME%% Ime korisnika nije ispravno!",
     "nolistspecified": "@%%NAME%% Lista nije navedena!",
     "invalidlistspecified": "@%%NAME%% Ime liste nije ispravno!",
