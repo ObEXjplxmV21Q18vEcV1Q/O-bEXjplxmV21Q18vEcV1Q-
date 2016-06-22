@@ -366,5 +366,6 @@
     "skiphistory": "@%%NAME%% Preskakanje pesme... [u istoriji!]",
     "skipdead": "@%%NAME%% Preskakanje pesme... [nije dostupna!]",
     "skiprules": "@%%NAME%% Preskakanje pesme... [protiv pravila!]",
+    "caps2": "@%%NAME%% Nije dozvoljeno pisati VELIKIM slovima :warning: ",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
