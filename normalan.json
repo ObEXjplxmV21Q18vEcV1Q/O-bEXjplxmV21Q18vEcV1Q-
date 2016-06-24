@@ -305,7 +305,7 @@
     "youaredj": "@%%NAME%% Trenutno puštaš pesmu!",
     "eta": "@%%NAME%% Tvoja pozicija u listi čekanja: %%POSITION%%, puštaš pesmu za otprilike: %%TIME%% [ovo nije uvek tačno!]",
     "facebook": null,
-    "starterhelp": "Ako ti treba pomoć @%%NAME%%, poseti ovu stranicu: http://bit.ly/help-plug",
+    "starterhelp": "Osnovni vodič kroz plug.dj: https://i.imgur.com/jkOdfxj.jpg",
     "roulettejoin": "Dobro došao(la) u rulet @%%NAME%%!",
     "jointime": "@%%NAME%%, %%USERNAME%% Je ovde %%TIME%%",
     "kickrank": "@%%NAME%% Ne možeš da izbaciš korisnike sa istim ili većim rankom od sebe!",
