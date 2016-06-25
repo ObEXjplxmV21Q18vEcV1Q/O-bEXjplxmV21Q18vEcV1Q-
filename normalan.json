@@ -31,6 +31,7 @@
         "Volim osobe kao što si ti. :blush:",
         "Srce mi kuca ubrzano u tvom prisustvu. :3",
         "Želim da obiđem celu planetu sa tobom! :earth_americas:",
+        "Da li ti je neko nekada rekao da izgledaš lepo? :3"
         "Sviđaš mi se! :heart:",
         "Hoćeš da se vidimo? :flushed:",
         "Sviđa mi se tvoje ime jako. :3",
@@ -247,8 +248,8 @@
     "brandambassador": "/me BrandAmbassador je globalni moderator sajta, za više informacija poseti: http://bit.ly/plug-ba",
     "chatcleared": "@%%NAME%% Brisanje poruka...",
     "deletechat": "@%%NAME%% Brisanje poruka od %%USERNAME%%!",
-    "commandslink": "@%%NAME%% Moje komande možeš pronaći ovde: %%LINK%%",
-    "staffcommandslink": "@%%NAME%% Moje komande za osoblje možeš pronaći ovde: %%LINK%%",
+    "commandslink": "@%%NAME%% Sve moje komande možeš pronaći ovde: %%LINK%%",
+    "staffcommandslink": null,
     "eatcookie": "/me Jedem kolačić! :yum: https://i.imgur.com/Ucq6yQT.gif",
     "sharelove": "/me Volim vas sve! :heart:",
     "noflirt": "/me :eyes:",
