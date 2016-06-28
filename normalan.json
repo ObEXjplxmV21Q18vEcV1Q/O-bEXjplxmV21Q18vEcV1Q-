@@ -373,5 +373,6 @@
     "skiprules": "@%%NAME%% Preskakanje pesme... [protiv pravila!]",
     "caps2": "@%%NAME%% Nije dozvoljeno pisati VELIKIM slovima :warning: ",
     "adv": "@staff, %%NAME%% Reklamira drugu zajednicu, izbacivanje...",
+    "aboutrcs": "https://i.imgur.com/6lET6y0.png",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
