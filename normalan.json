@@ -247,7 +247,7 @@
     "maximumafktimeset": "@%%NAME%% Maksimalno AFK vreme podešeno na %%TIME%% minut(a).",
     "afkstatusreset": "@%%NAME%% Restartovanje AFK statusa od %%USERNAME%%",
     "inactivefor": "@%%NAME%%, %%USERNAME%% Nije aktivan(a) već %%TIME%%",
-    "rcs": "/me AutoWoot[ RCS ] - http://bit.ly/rcs-1 :gem: Instalacija - http://bit.ly/rcs-h",
+    "rcs": "/me AutoWoot[ RCS ] - http://bit.ly/rcs-1 :gem: Instalacija RCS-a - http://bit.ly/rcs-h",
     "rce": "/me AutoWoot[Chrome dodatak] - http://bit.ly/rcs-2",
     "brandambassador": "/me BrandAmbassador je globalni moderator sajta, za više informacija poseti: http://bit.ly/plug-ba",
     "chatcleared": "@%%NAME%% Brisanje poruka...",
