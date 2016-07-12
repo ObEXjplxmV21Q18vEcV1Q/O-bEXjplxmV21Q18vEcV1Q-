@@ -385,5 +385,6 @@
     "caps2": "@%%NAME%% Nije dozvoljeno pisati VELIKIM slovima :warning: ",
     "adv": "@staff, %%NAME%% Reklamira drugu zajednicu, izbacivanje...",
     "aboutrcs": "https://i.imgur.com/6lET6y0.png",
+    "commandtest": "Test Test 123 :snail:",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: :green_heart: %%WOOTS%% | :purple_heart: %%GRABS%% | :broken_heart: %%MEHS%%"
 }
