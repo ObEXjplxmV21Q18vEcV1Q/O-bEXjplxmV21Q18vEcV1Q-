@@ -359,7 +359,7 @@
     "skip": "@%%NAME%% Preskakanje pesme...",
     "live": "@%%NAME%% Preskakanje pesme jer je uživo!",
     "madeby": "/me EveBot by Aw, Snap! aka PICKORITA.",
-    "activefor": "Aktivna sam: %%TIME%%",
+    "activefor": "Radim: %%TIME%%",
     "swapinvalid": "@%%NAME%% Ime korisnika nije ispravno!",
     "swapwlonly": "@%%NAME%% Zamena je moguća samo za korisnike koji su u listi čekanja!",
     "swapping": "/me Menjam %%NAME1%% sa %%NAME2%%!",
