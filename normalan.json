@@ -358,7 +358,7 @@
     "session": "/me :green_heart: %%WOOTS%% │ :broken_heart: %%MEHS%% │ :star: %%GRABS%%",
     "skip": "@%%NAME%% Preskakanje pesme...",
     "live": "@%%NAME%% Preskakanje pesme jer je uživo!",
-    "madeby": "/me EveBot by Aw, Snap! aka PICKORITA.",
+    "madeby": "/me EveBot by Aw, Snap!",
     "activefor": "Radim: %%TIME%%",
     "swapinvalid": "@%%NAME%% Ime korisnika nije ispravno!",
     "swapwlonly": "@%%NAME%% Zamena je moguća samo za korisnike koji su u listi čekanja!",
