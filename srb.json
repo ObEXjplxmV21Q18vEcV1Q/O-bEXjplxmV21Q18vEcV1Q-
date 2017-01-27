@@ -296,7 +296,7 @@
     "plugsp": "/me plug.dj support: http://bit.ly/plug-sp",
     "illuminati": "/me Always watching you! :eyes: https://i.imgur.com/KlWEk9T.png",
     "linkinchat": "/me https://i.imgur.com/YwMcZyW.png",
-    "djsalert": "@djs Pre puštanja pesme proverite da li je ista: 1. [oficijalna] 2. [kraća od 5:00] 3. [dostupna!]",
+    "djsalert": "@djs Pre puštanja pesme proverite da li je ista: 1. [oficijalna] 2. [kraća od %%TIME%% minuta] 3. [dostupna!]",
     "engonly": "/me Please write in English or Serbian!",
     "dudu": "/me DUDUDUDU",
     "watermelons": "/me :watermelon: :watermelon: :watermelon: :watermelon: :watermelon: :watermelon: :watermelon: :watermelon: :watermelon: :watermelon: :watermelon: :watermelon:",
